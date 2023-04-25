@@ -12,3 +12,8 @@
 - Retrofit
 - Room
 - Jetpack compose
+
+---
+
+# Screenshots
+![App Screenshot](https://github.com/abhineshchandra1234/WeatherForecast/blob/master/images/Portland%20weather.png)
